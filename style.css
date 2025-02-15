@@ -1,0 +1,29 @@
+.navbar {
+    overflow: auto;
+}
+.navbar ul li{
+    list-style: none;
+    float: left;
+    margin: 9px 8px;
+    padding: 3px 5px;
+}
+.navbar ul li a{
+    text-decoration: none;
+    color:rgb(10, 10, 10);
+    font-size: 18px;
+    padding: 5px;
+    margin:7px;
+}
+body{
+    background-color: rgb(220, 228, 225);
+}
+.logo {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size:50px ;
+}
+p {
+    float:right;
+    font-size: medium;
+    padding:0px;
+    margin: 0px;
+}
